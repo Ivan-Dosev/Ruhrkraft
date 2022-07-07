@@ -6,7 +6,7 @@ pragma solidity 0.8.4;
  * @dev Store & retrieve value
    Version 2 storing each parameter in a struct and retrieving it separately 
  */
-contract Ruhrkraft {
+contract Ruhrkraft2 {
 
 struct Object {
      string   clientId;
